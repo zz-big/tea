@@ -1,14 +1,17 @@
 {
-  "name": "tea-z",
-  "version": "1.0.0",
+  "name": "tea-zz",
+  "version": "1.0.4",
   "description": "the tea project",
+  "dependencies": {
+    "tea-zz": "github:zz-big/tea"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "tea"
+    "url": "git+https://github.com/zz-big/tea.git"
   },
   "keywords": [
     "tea"
